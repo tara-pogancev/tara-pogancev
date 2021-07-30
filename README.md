@@ -1,11 +1,11 @@
 <h1 align="center">Howdy ✨, I'm Tara!</h1>
 <h3 align="center">Electrical Engineering Student, Faculty of Technical Sciences, University of Novi Sad</h3>
 
-- 🔭 I’m currently working on [Web Delivery Service (REST/JQuery)](https://github.com/tara-pogancev/web-delivery-service)
+- 🔭 I’m currently working on [Plantify (Flutter)](https://github.com/tara-pogancev/flutter-plantify)
 
-- 🌱 I’m currently focused on **web and software development**
+- 🌱 I’m presently focused on **web and software development**
 
-- 🔭 Currently focused on Flutter and Adobe XD
+- 🔭 Currently learning Flutter and AdobeXD
 
 - 📫 How to reach me **tarapogancev@gmail.com**
 
