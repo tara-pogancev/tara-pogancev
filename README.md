@@ -3,7 +3,7 @@
 
 - 🌱 I’m presently focused on **web and software development**
 
-- 🔭 Currently learning Flutter and AdobeXD
+- 🔭 Currently learning Spring and React
 
 - 📫 How to reach me **tarapogancev@gmail.com**
 
