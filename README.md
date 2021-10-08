@@ -1,5 +1,5 @@
 <h1 align="center">Howdy ✨, I'm Tara!</h1>
-<h3 align="center">Electrical Engineering Student, Faculty of Technical Sciences, University of Novi Sad</h3>
+<h3 align="center">Applied Computer Science and Informatics Student, Faculty of Technical Sciences, University of Novi Sad</h3>
 
 - 🌱 I’m presently focused on **web and software development**
 
@@ -11,7 +11,7 @@
 
 - ☕ Fun fact **I love cats and coffee!**
 
-- 🎨 Other than programming **I do digital art and photography**
+- 🎨 Other than programming **I do digital illustration and photography**
 
 - 👀 Come take a look! [https://www.artstation.com/tarapogancev/](https://www.artstation.com/tarapogancev/)
 
