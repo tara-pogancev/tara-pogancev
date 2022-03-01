@@ -3,7 +3,7 @@
 
 - 🌱 I’m presently focused on **web and software development**
 
-- 🔭 Currently learning Spring and React
+- 🔭 Currently learning Spring Boot and Angular
 
 - 📫 How to reach me **tarapogancev@gmail.com**
 
