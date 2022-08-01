@@ -1,9 +1,9 @@
 <h1 align="center">Howdy ✨, I'm Tara!</h1>
-<h3 align="center">Applied Computer Science and Informatics Student, Faculty of Technical Sciences, University of Novi Sad</h3>
+<h3 align="center">Bachelor with Honours in Electrical and Computer Engineering, Faculty of Technical Sciences, University of Novi Sad</h3>
 
-- 🌱 I’m presently focused on **web and software development**
+- 🌱 I’m presently focused on **Android Mobile Development**
 
-- 🔭 Currently learning Spring Boot and Angular
+- 🔭 Most proficient with Spring Boot and Angular
 
 - 📫 How to reach me **tarapogancev@gmail.com**
 
