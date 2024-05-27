@@ -1,15 +1,40 @@
-<h1 align="left">Hey ✨ I'm Tara!</h1>
 
-###
+<h2 align="center">
+  <img src="https://media.giphy.com/media/9AI3FgYKaD5H72MYIU/giphy.gif" width="28">
+  <samp>Welcome to my Coding Realm! I'm <b><a target="_blank">Tara.</a></samp>
+  <img src="https://i.giphy.com/7XDDjU7MpXJslAnB4n.webp" width="28">
+</h2>
 
-<h3 align="left">Software Developer, Master's Degree in Computer Science</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff193a&random=true&width=435&lines=Computer+Science+MSc+Engineer;Coding+since+11+y%2Fo;Profound+cat+lover;Mobile+%2B+AI;UI%2FUX+Design&center=true" alt="Typing SVG" /></a>
+</p>
 
-###
 
-<h2 align="left">About me</h2>
+<p align="center"> 
+  <samp>
+    「 
+    I'm a software developer inspired by art and sustained by coffee. 🎨
+     」
+    <br>
+    <br>
+  </samp>
+</p>
 
-###
+<p align="center">
+ <a href="https://www.linkedin.com/in/tara-pogancev/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+  <a href="https://play.google.com/store/apps/developer?id=Tara+Pogan%C4%8Dev" target="_blank">
+  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+ </a>
+   <a href="https://www.artstation.com/tarapogancev" target="_blank"><img alt="All Repositories" title="ArtStation" src="https://img.shields.io/badge/-ArtStation-c9243c?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
 
+<br />
+
+<!-- About Section -->
+ # About me
+   
 <p align="left">
   🌱 I’m presently focused on Mobile Development and AI<br><br>📫 How to reach me <a href="mailto:tarapogancev@gmail.com">tarapogancev@gmail.com</a>
   <br><br>
@@ -21,11 +46,10 @@
   <br><br>
   👀 Come take a look! <a href="https://www.artstation.com/tarapogancev/">https://www.artstation.com/tarapogancev/</a></p>
 
-###
+
+<br/>
 
 <h2 align="left">Main Tech Stack</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
@@ -45,7 +69,7 @@
 
 ###
 
-<h4 align="left">Additional tools and frameworks</h4>
+<h3 align="left">Additional tools and frameworks</h3>
 
 ###
 
@@ -81,17 +105,45 @@
 
 ###
 
-<div>
-  <hr>
-</div>
+<br/>
+
+## Top Open Source
+
+<a href="https://github.com/tara-pogancev/android-white-noise">
+  <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tara-pogancev&repo=android-white-noise&border_color=c9243c&bg_color=170d10&title_color=C9D1D9&text_color=8B949E&icon_color=c9243c" />
+</a>
+<a href="https://github.com/tara-pogancev/my-google-service">
+  <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tara-pogancev&repo=my-google-service&border_color=c9243c&bg_color=170d10&title_color=C9D1D9&text_color=8B949E&icon_color=c9243c" />
+</a>
+<br/><br/>
+<a href="https://github.com/tara-pogancev/inscribe-flutter-app">
+  <img  width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tara-pogancev&repo=inscribe-flutter-app&border_color=c9243c&bg_color=170d10&title_color=C9D1D9&text_color=8B949E&icon_color=c9243c" />
+</a>
+<a href="https://github.com/tara-pogancev/react-modern-business-website">
+  <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tara-pogancev&repo=react-modern-business-website&border_color=c9243c&bg_color=170d10&title_color=C9D1D9&text_color=8B949E&icon_color=c9243c" />
+</a>
+
+<br/>
+
+<p align="left">
+  <a href="https://github.com/tara-pogancev?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-c9243c?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/tara-pogancev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tara-pogancev&theme=dracula&border=c9243c&background=170d10" alt="Tara's GitHub streak"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/tara-pogancev"><img alt="Tara's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=tara-pogancev&show_icons=true&count_private=true&theme=dracula&border_color=c9243c&bg_color=170d10&title_color=F85D7F&icon_color=F8D866" height=192 width="49.5%"/></a>
+    <a href="https://github.com/tara-pogancev"><img alt="Tara's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tara-pogancev&langs_count=8&layout=compact&theme=dracula&border_color=c9243c&bg_color=170d10&title_color=F85D7F&icon_color=F8D866" height=192 width="49.5%"/></a>
+  <br/>
+</a>
 
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tara-pogancev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tara-pogancev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=tara-pogancev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
+![Tara's Graph](https://github-readme-activity-graph.vercel.app/graph?username=tara-pogancev&custom_title=Tara's%20GitHub%20Activity%20Graph&bg_color=170d10&color=c9243c&line=c9243c&point=c9243c&area_color=FFFFFF&title_color=FFFFFF&area=true&theme=dracula)
