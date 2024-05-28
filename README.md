@@ -49,7 +49,7 @@
 
 <br/>
 
-<h2 align="left">Main Tech Stack</h2>
+<h2 align="left">Main tech stack</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
@@ -107,7 +107,7 @@
 
 <br/>
 
-## Top Open Source
+## Highlighted projects
 
 <a href="https://github.com/tara-pogancev/android-white-noise">
   <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tara-pogancev&repo=android-white-noise&border_color=c9243c&bg_color=170d10&title_color=C9D1D9&text_color=8B949E&icon_color=c9243c" />
@@ -123,6 +123,7 @@
   <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tara-pogancev&repo=react-modern-business-website&border_color=c9243c&bg_color=170d10&title_color=C9D1D9&text_color=8B949E&icon_color=c9243c" />
 </a>
 
+<br/>
 <br/>
 
 <p align="left">
