@@ -1,8 +1,8 @@
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/9AI3FgYKaD5H72MYIU/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/9AI3FgYKaD5H72MYIU/giphy.gif" width="40">
   <samp>Welcome to my Coding Realm! I'm <b><a target="_blank">Tara.</a></samp>
-  <img src="https://i.giphy.com/7XDDjU7MpXJslAnB4n.webp" width="28">
+  <img src="https://i.giphy.com/7XDDjU7MpXJslAnB4n.webp" width="40">
 </h2>
 
 <p align="center">
