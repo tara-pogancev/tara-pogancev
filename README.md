@@ -110,17 +110,17 @@
 ## Highlighted projects
 
 <a href="https://github.com/tara-pogancev/android-white-noise">
-  <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tara-pogancev&repo=android-white-noise&border_color=c9243c&bg_color=170d10&title_color=C9D1D9&text_color=8B949E&icon_color=c9243c" />
+  <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tara-pogancev&repo=android-white-noise&border_color=c9243c&bg_color=170d10&title_color=C9D1D9&text_color=8B949E&icon_color=c9243c&description_lines_count=3" />
 </a>
 <a href="https://github.com/tara-pogancev/my-google-service">
-  <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tara-pogancev&repo=my-google-service&border_color=c9243c&bg_color=170d10&title_color=C9D1D9&text_color=8B949E&icon_color=c9243c" />
+  <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tara-pogancev&repo=my-google-service&border_color=c9243c&bg_color=170d10&title_color=C9D1D9&text_color=8B949E&icon_color=c9243c&description_lines_count=3" />
 </a>
 <br/><br/>
 <a href="https://github.com/tara-pogancev/inscribe-flutter-app">
-  <img  width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tara-pogancev&repo=inscribe-flutter-app&border_color=c9243c&bg_color=170d10&title_color=C9D1D9&text_color=8B949E&icon_color=c9243c" />
+  <img  width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tara-pogancev&repo=inscribe-flutter-app&border_color=c9243c&bg_color=170d10&title_color=C9D1D9&text_color=8B949E&icon_color=c9243c&description_lines_count=3" />
 </a>
 <a href="https://github.com/tara-pogancev/react-modern-business-website">
-  <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tara-pogancev&repo=react-modern-business-website&border_color=c9243c&bg_color=170d10&title_color=C9D1D9&text_color=8B949E&icon_color=c9243c" />
+  <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tara-pogancev&repo=react-modern-business-website&border_color=c9243c&bg_color=170d10&title_color=C9D1D9&text_color=8B949E&icon_color=c9243c&description_lines_count=3" />
 </a>
 
 <br/>
