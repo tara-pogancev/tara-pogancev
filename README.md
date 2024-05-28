@@ -12,9 +12,9 @@
 
 <p align="center"> 
   <samp>
-    「 
+    < 
     I'm a software developer inspired by art and sustained by coffee. 🎨
-     」
+    >
     <br>
     <br>
   </samp>
