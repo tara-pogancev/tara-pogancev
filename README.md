@@ -27,7 +27,7 @@
   <a href="https://play.google.com/store/apps/developer?id=Tara+Pogan%C4%8Dev" target="_blank">
   <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
  </a>
-   <a href="https://www.artstation.com/tarapogancev" target="_blank"><img alt="All Repositories" title="ArtStation" src="https://img.shields.io/badge/-ArtStation-c9243c?style=for-the-badge&logo=koding&logoColor=white"/></a>
+   <a href="https://www.tarapogancev.com" target="_blank"><img alt="Website" title="Website" src="https://img.shields.io/badge/Website-c9243c?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white"/></a>
 </p>
 
 <br />
