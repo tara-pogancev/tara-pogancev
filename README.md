@@ -137,12 +137,6 @@
 <hr/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/tara-pogancev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tara-pogancev&theme=dracula&border=c9243c&background=170d10" alt="Tara's GitHub streak"/>
-  </a>
-</p>
-
 <a> 
     <a href="https://github.com/tara-pogancev"><img alt="Tara's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=tara-pogancev&show_icons=true&count_private=true&theme=dracula&border_color=c9243c&bg_color=170d10&title_color=F85D7F&icon_color=F8D866" height=192 width="49.5%"/></a>
     <a href="https://github.com/tara-pogancev"><img alt="Tara's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tara-pogancev&langs_count=8&layout=compact&theme=dracula&border_color=c9243c&bg_color=170d10&title_color=F85D7F&icon_color=F8D866" height=192 width="49.5%"/></a>
