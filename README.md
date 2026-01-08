@@ -36,7 +36,9 @@
  # About me
    
 <p align="left">
-  🌱 I’m presently focused on Mobile Development and AI<br><br>📫 How to reach me <a href="mailto:tarapogancev@gmail.com">tarapogancev@gmail.com</a>
+  🌱 I’m presently focused on Mobile Development using Flutter
+  <br><br>
+  📫 How to reach me <a href="mailto:tarapogancev@gmail.com">tarapogancev@gmail.com</a>
   <br><br>
   📄 Know about my experiences <a href="https://www.linkedin.com/in/tara-pogancev/">https://www.linkedin.com/in/tara-pogancev/</a>
   <br><br>
@@ -45,7 +47,6 @@
   🎨 Other than programming I do <b>digital illustration</b>
   <br><br>
   👀 Visit my website! <a href="https://www.tarapogancev.com/">https://www.tarapogancev.com/</a></p>
-
 
 <br/>
 
@@ -106,35 +107,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
 </div>
 
-###
-
-<br/>
-
-## Highlighted projects
-
-<a href="https://github.com/tara-pogancev/android-white-noise">
-  <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tara-pogancev&repo=android-white-noise&border_color=c9243c&bg_color=170d10&title_color=C9D1D9&text_color=8B949E&icon_color=c9243c&description_lines_count=3" />
-</a>
-<a href="https://github.com/tara-pogancev/my-google-service">
-  <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tara-pogancev&repo=my-google-service&border_color=c9243c&bg_color=170d10&title_color=C9D1D9&text_color=8B949E&icon_color=c9243c&description_lines_count=3" />
-</a>
-<br/><br/>
-<a href="https://github.com/tara-pogancev/inscribe-flutter-app">
-  <img  width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tara-pogancev&repo=inscribe-flutter-app&border_color=c9243c&bg_color=170d10&title_color=C9D1D9&text_color=8B949E&icon_color=c9243c&description_lines_count=3" />
-</a>
-<a href="https://github.com/tara-pogancev/react-modern-business-website">
-  <img width=49.5% align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tara-pogancev&repo=react-modern-business-website&border_color=c9243c&bg_color=170d10&title_color=C9D1D9&text_color=8B949E&icon_color=c9243c&description_lines_count=3" />
-</a>
-
 <br/>
 <br/>
 
-<p align="left">
-  <a href="https://github.com/tara-pogancev?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-c9243c?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
 <hr/>
+
 <br/>
 
 <a> 
